@@ -1,0 +1,406 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<?php 
+include "header.php";
+?>
+
+<div class="stricky-header stricked-menu main-menu">
+    <div class="sticky-header__content"></div></div><!-- /.stricky-header -->
+
+    <!--Page Header Start-->
+    <section class="page-header">
+        <div class="page-header-bg" style="background-image: url(assets/images/backgrounds/page-header-bg.jpg)">
+        </div>
+        <div class="container">
+            <div class="page-header__inner">
+                <ul class="thm-breadcrumb list-unstyled">
+                    <li><a href="index.php">Home</a></li>
+                    <li><span>/</span></li>
+                    <li class="active">Blogs</li>
+                </ul>
+                <h2>Blogs</h2>
+            </div>
+        </div>
+    </section>
+    <!--Page Header End-->
+
+    <!--FAQ Search Start-->
+   <!--  <section class="faq-search">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="faq-search__inner">
+                        <div class="section-title text-center">
+                            <div class="section-title__tagline-box">
+                                <span class="section-title__tagline">Frequently asked questions</span>
+                                <div class="section-title-shape">
+                                    <img src="assets/images/shapes/section-title-shape.png" alt="">
+                                </div>
+                            </div>
+                            <h2 class="section-title__title">How can we help?</h2>
+                        </div>
+                        <form action="#" class="faq-search__search-form">
+                            <input type="search" placeholder="Search here anything...">
+                            <button type="submit"><i class="icon-magnifying-glass"></i></button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
+    <!--FAQ Search End-->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+             <section class="we-help">
+                <div class="container">
+                    <div class="we-help__inner">
+                        <div class="row">
+
+                         <div class="col-xl-6 col-lg-6">
+                            <div class="we-help__right">
+                                <div class="we-help__img wow slideInRight" data-wow-delay="100ms"
+                                data-wow-duration="2500ms">
+                                <img src="eibs_images/dm.jpg" alt=""><br><br><hr style="color: black;">
+                                <div class="container">
+
+                                  <div class="col-xl-12 col-lg-12">
+                                    <div class="service-details__right">
+
+                                        <div class="service-details__content">
+                                            <center><h3 class="service-details__content-title">
+                                            How Digital Marketing Makes Your Business More Popular?</h3></center>
+                                            <p class="service-details__text-1" style="text-align:;">
+
+                                                <b>
+
+                                                    Digital marketing began in the early days of search engines and social media. Since then, the importance and scope of digital marketing have rapidly grown.
+                                                    Businesses increasingly turn to digital media for branding as the target audience shifts to social media and search engines. As a result, digital marketing is proving to be more effective than ever. In addition, businesses can track their results and get leads and sales.
+                                                    Digital marketing has helped to increase the number of jobs in digital marketing. In addition, digital marketing’s scope is constantly evolving and expanding exponentially.
+                                                Digital marketing offers five major advantages that Make Your Business More Popular: measurability and affordability, speed, engagement, speed, and reach an ideal customer..</b>
+                                            </p>
+
+                                        </div> 
+                                    </div>
+                                </div>
+                            </div>
+                            <img src="eibs_images/mark.jpg" alt=""><hr style="color: black;">
+                            <div class="container">
+
+                              <div class="col-xl-12 col-lg-12">
+                                <div class="service-details__right">
+
+                                    <div class="service-details__content">
+                                        <center><h3 class="service-details__content-title">
+                                        How Digital Marketing Makes Your Business More Popular?</h3></center>
+                                        <p class="service-details__text-1" style="text-align:;">
+
+                                            <b>
+
+                                                Digital marketing gives you a dynamic edge in marketing yourself in a fast-paced environment.
+                                                Digital marketing is important because it allows you to interact with customers and prospects, answer questions, and solve problems. In addition, digital marketing allows you to interact with a wider audience. This means that you can do much more than sell.
+
+                                                To better inform your decision-making, you can get opinions and market research. You can also look for collaborations, campaigns for subcontractors, or the professional opinions and recommendations of your peers regarding project work. You can boost your profile by inviting your network to share pages.
+
+                                            </b>
+                                        </p>
+
+                                    </div> 
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-6 col-lg-6">
+                <div class="we-help__left">
+                    <div class="section-title text-left">
+                                <!-- <div class="section-title__tagline-box">
+
+
+                                </div>
+                            -->
+                            <div class="faq-page__tab-button-box">
+                                <ul class="tab-buttons clearfix list-unstyled"><br><br>
+
+                                    <li>How Digital Marketing Makes Your Business More Popular?
+                                    November 18, 2022.</li>
+                                    <li>Importance of Online Presence in the Current Digital World
+                                    November 18, 2022.</li>
+                                    <li>Why Building a Brand Identity is Important for Your Business
+                                    November 15, 2022.</li>
+                                    <li>Make a Seamless User Experience With Responsive Web Design Services.
+                                    August 8, 2022.</li><br><br>
+
+
+
+                                    <h5>Tags</h5><br>
+
+
+                                    App Development Companies (3)<br>
+                                    App Promotion Strategies (3)<br>
+                                    app UI design (2)<br>
+                                    Best SEO Services (4)<br>
+                                    Brand Awareness Strategy (3)<br>
+                                    Brand Development Process (3)<br>
+                                    Branding for Business (3)<br>
+                                    Branding Logo (2)<br>
+                                    Business Branding (3)<br>
+                                    Business Logo Ideas (3)<br>
+                                    Business Marketing (4)<br>
+                                    Business Strategy (3)<br>
+                                    Content Writing Services (2)<br>
+                                    Creating a Brand Identity (5)<br>
+                                    Creating a Company Logo (3)<br>
+                                    CRM Application (3)<br>
+                                    Design a Successful Web Page (3)<br>
+                                    Digital Brand Strategy (5)<br>
+                                    Digital Campaign Strategy (5)<br>
+                                    Digital Marketing Action Plan (3)<br>
+                                    Digital Marketing Campaign (3)<br>
+                                    Digital Media Marketing (3)<br>
+                                    Ecommerce Design (2)<br>
+                                    Ecommerce Site Design (4)<br>
+                                    ERP Software Company (3)<br>
+                                    GST Billing Software (2)<br>
+                                    Market Penetration (4)<br>
+                                    Mobile App Builder (3)<br>
+                                    Mobile App Strategies (4)<br>
+                                    Professional Digital Marketing Services (3)<br>
+                                    Professional SEO Services (6)<br>
+                                    Professional Social Media Marketing Tactics (4)<br>
+                                    Search Engine Optimization (5)<br>
+                                    Search Engine Optimization Service (3)<br>
+                                    SEO Services (3)<br>
+                                    SMM Services (4)<br>
+                                    Social Media Marketing (8)<br>
+                                    social media promotion (2)<br>
+                                    Top App Marketing Companies (4)<br>
+                                    user experience (3)<br>
+                                    Web CMS (5)<br>
+                                    Web Design and Development Company (3)<br>
+                                    Web Design Company (3)<br>
+                                    Web Design Logo (4)<br>
+                                    Website Design (5)<br>
+
+
+                                </ul>
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+</div>
+</div>
+</div>
+<!--FAQ Page End-->
+<section class="faq-page">
+    <div class="container">
+        <div class="faq-page__tab">
+            <div class="faq-page__tab-box tabs-box">
+                <div class="row">
+
+                    <div class="col-xl-8 col-lg-8">
+                        <div class="faq-page__tab-faq-box">
+                            <div class="tabs-content">
+                                <!--tab-->
+                                <div class="tab" id="thm-feature">
+                                    <div class="faq-page__tab-faq-content">
+                                        <div class="faq-page__tab-faq-content-title-box">
+                                            <div class="faq-page__tab-faq-content-title-icon">
+                                                <img src="assets/images/icon/thm-feature.png" alt="">
+                                            </div>
+                                            <div class="faq-page__tab-faq-content-title">
+                                                <h5>Theme features</h5>
+                                                <p>Phasellus tristique lorem et nulla tincidunt faucibus.</p>
+                                            </div>
+                                        </div>
+                                        <div class="faq-page__tab-main-faq">
+                                            <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
+                                                <div class="accrodion">
+                                                    <div class="accrodion-title">
+                                                        <h4>What is a managed IT service provider?</h4>
+                                                    </div>
+
+                                                    <div class="accrodion">
+                                                        <div class="accrodion-title">
+                                                            <h4>What makes your company different?</h4>
+                                                        </div>
+                                                        <div class="accrodion-content">
+                                                            <div class="inner">
+                                                                <p>There are many variations of passages the majority have suffered alteration in some fo injected humour, or randomised words believable. Phasellus a rhoncus erat. Vivamus vel eros vitae est aliquet pellentesque vitae.</p>
+                                                            </div><!-- /.inner -->
+                                                        </div>
+                                                    </div>
+                                                    <div class="accrodion">
+                                                        <div class="accrodion-title">
+                                                            <h4>Can I get an invoice for my purchase?</h4>
+                                                        </div>
+                                                    </div>
+                                                    <div class="accrodion">
+                                                        <div class="accrodion-title">
+                                                            <h4>Will you be updating your theme weekly?</h4>
+                                                        </div>
+                                                        
+                                                    </div>
+
+                                                    <div class="accrodion last-chiled">
+                                                        <div class="accrodion-title">
+                                                            <h4>What can you do if we hire a IT advisor for business?</h4>
+                                                        </div>
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--tab-->
+                                    <div class="tab active-tab" id="general">
+                                        <div class="faq-page__tab-faq-content">
+                                            <div class="faq-page__tab-faq-content-title-box">
+                                                <div class="faq-page__tab-faq-content-title-icon">
+                                                    <img src="assets/images/icon/gen-inqires.png" alt="">
+                                                </div>
+                                                <div class="faq-page__tab-faq-content-title">
+                                                    <img src="eibs_images/dm.jpg">
+                                                </div>
+                                            </div>
+                                            <div class="faq-page__tab-main-faq">
+                                                <div class="accrodion-grp faq-one-accrodion" data-grp-name="faq-one-accrodion-1">
+                                                    <div class="accrodion">
+
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--tab-->
+                                    <!--tab-->
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--FAQ Page End-->
+
+    <!--Brand One Start-->
+
+    <!--Brand One End-->
+
+    <!--Site Footer Start-->
+    <?php 
+    include "footer.php";
+    ?>
+    <!--Site Footer End-->
+
+
+</div><!-- /.page-wrapper -->
+
+
+<div class="mobile-nav__wrapper">
+    <div class="mobile-nav__overlay mobile-nav__toggler"></div>
+    <!-- /.mobile-nav__overlay -->
+    <div class="mobile-nav__content">
+        <span class="mobile-nav__close mobile-nav__toggler"><i class="fa fa-times"></i></span>
+
+        <div class="logo-box">
+            <a href="index.php" aria-label="logo image"><img src="assets/images/resources/footer-logo.png"
+                width="155" alt="" /></a>
+            </div>
+            <!-- /.logo-box -->
+            <div class="mobile-nav__container"></div>
+            <!-- /.mobile-nav__container -->
+
+            <ul class="mobile-nav__contact list-unstyled">
+                <li>
+                    <i class="fa fa-envelope"></i>
+                    <a href="mailto:needhelp@packageName__.com">needhelp@notech.com</a>
+                </li>
+                <li>
+                    <i class="fa fa-phone-alt"></i>
+                    <a href="tel:666-888-0000">666 888 0000</a>
+                </li>
+            </ul><!-- /.mobile-nav__contact -->
+            <div class="mobile-nav__top">
+                <div class="mobile-nav__social">
+                    <a href="#" class="fab fa-twitter"></a>
+                    <a href="#" class="fab fa-facebook-square"></a>
+                    <a href="#" class="fab fa-pinterest-p"></a>
+                    <a href="#" class="fab fa-instagram"></a>
+                </div><!-- /.mobile-nav__social -->
+            </div><!-- /.mobile-nav__top -->
+
+
+
+        </div>
+        <!-- /.mobile-nav__content -->
+    </div>
+    <!-- /.mobile-nav__wrapper -->
+
+    <div class="search-popup">
+        <div class="search-popup__overlay search-toggler"></div>
+        <!-- /.search-popup__overlay -->
+        <div class="search-popup__content">
+            <form action="#">
+                <label for="search" class="sr-only">search here</label><!-- /.sr-only -->
+                <input type="text" id="search" placeholder="Search Here..." />
+                <button type="submit" aria-label="search submit" class="thm-btn">
+                    <i class="icon-magnifying-glass"></i>
+                </button>
+            </form>
+        </div>
+        <!-- /.search-popup__content -->
+    </div>
+    <!-- /.search-popup -->
+
+    <a href="#" data-target="html" class="scroll-to-target scroll-to-top"><i class="fa fa-angle-up"></i></a>
+
+
+    <script src="assets/vendors/jquery/jquery-3.6.0.min.js"></script>
+    <script src="assets/vendors/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/vendors/jarallax/jarallax.min.js"></script>
+    <script src="assets/vendors/jquery-ajaxchimp/jquery.ajaxchimp.min.js"></script>
+    <script src="assets/vendors/jquery-appear/jquery.appear.min.js"></script>
+    <script src="assets/vendors/jquery-circle-progress/jquery.circle-progress.min.js"></script>
+    <script src="assets/vendors/jquery-magnific-popup/jquery.magnific-popup.min.js"></script>
+    <script src="assets/vendors/jquery-validate/jquery.validate.min.js"></script>
+    <script src="assets/vendors/nouislider/nouislider.min.js"></script>
+    <script src="assets/vendors/odometer/odometer.min.js"></script>
+    <script src="assets/vendors/swiper/swiper.min.js"></script>
+    <script src="assets/vendors/tiny-slider/tiny-slider.min.js"></script>
+    <script src="assets/vendors/wnumb/wNumb.min.js"></script>
+    <script src="assets/vendors/wow/wow.js"></script>
+    <script src="assets/vendors/isotope/isotope.js"></script>
+    <script src="assets/vendors/countdown/countdown.min.js"></script>
+    <script src="assets/vendors/owl-carousel/owl.carousel.min.js"></script>
+    <script src="assets/vendors/bxslider/jquery.bxslider.min.js"></script>
+    <script src="assets/vendors/bootstrap-select/js/bootstrap-select.min.js"></script>
+    <script src="assets/vendors/vegas/vegas.min.js"></script>
+    <script src="assets/vendors/jquery-ui/jquery-ui.js"></script>
+    <script src="assets/vendors/timepicker/timePicker.js"></script>
+
+
+
+
+    <!-- template js -->
+    <script src="assets/js/notech.js"></script>
+
+    <!-- toolbar js -->
+    <script src="assets/vendors/toolbar/js/js.cookie.min.js"></script>
+    <script src="assets/vendors/toolbar/js/jQuery.style.switcher.min.js"></script>
+    <script src="assets/vendors/toolbar/js/toolbar.js"></script>
+</body>
+
+</html>
